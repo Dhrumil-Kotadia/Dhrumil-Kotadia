@@ -10,7 +10,7 @@
 
 -🔭 Past Research: IMU based robust step count detector
 
--🤝🏻 Open to collaboration on developing Classical and Deep Learning based COmputer Vision Solutions
+-🤝🏻 Open to collaboration on developing Classical and Deep Learning based Computer Vision Solutions
 
 -👨‍💻 Visit to my [Portfolio](https://dhrumil-kotadia.github.io)
 
