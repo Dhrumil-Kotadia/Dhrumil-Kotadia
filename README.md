@@ -12,7 +12,7 @@
 
 -🤝🏻 Open to collaboration on developing Classical and Deep Learning based Computer Vision Solutions
 
--👨‍💻 Visit to my [Portfolio](https://dhrumil-kotadia.github.io)
+-👨‍💻 Visit my [Portfolio](https://dhrumil-kotadia.github.io)
 
 -📫 Reach me
 <a href="mailto: dkotadia@wpi.edu" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" alt="mailto: dkotadia@wpi.edu" height="30" width="40" /></a>
